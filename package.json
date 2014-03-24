@@ -1,0 +1,11 @@
+{
+  "name": "justChat",
+  "version": "0.0.0",
+  "description": "Just chat!",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest"
+  },
+  "author": "Shkurkin"
+}
